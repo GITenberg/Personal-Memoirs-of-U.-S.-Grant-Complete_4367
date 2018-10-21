@@ -12,6 +12,8 @@ Title: Personal Memoirs of U. S. Grant, Complete
 Author: Ulysses S. Grant
 
 Release Date:  August 16, 2006 [EBook #4367]
+Last Updated: June 20, 2018
+
 
 Language: English
 
@@ -1910,7 +1912,7 @@ the enemy had gone.  This left me in command of the company, an honor
 and responsibility I thought very great.
 
 Smith and McCall found no obstruction in the way of their advance until
-they came up to the succession of ponds, before describes, at Resaca.
+they came up to the succession of ponds, before described, at Resaca.
 The Mexicans had passed them and formed their lines on the opposite
 bank.  This position they had strengthened a little by throwing up dead
 trees and brush in their front, and by placing artillery to cover the
@@ -2121,7 +2123,7 @@ Cerralvo were nearly deserted, and men, women and children were seen
 running and scattered over the hills as we approached; but when the
 people returned they found all their abandoned property safe, which must
 have given them a favorable opinion of Los Grengos--"the Yankees."  From
-Marin the movement was in mass. On the 19th General Taylor, with is
+Marin the movement was in mass. On the 19th General Taylor, with his
 army, was encamped at Walnut Springs, within three miles of Monterey.
 
 The town is on a small stream coming out of the mountain-pass, and is
@@ -5187,7 +5189,7 @@ Brown himself was gladder to see me on that occasion than he ever has
 been since.  I relieved him and sent all his men home within a day or
 two, to be mustered out of service.
 
-Within ten days after reading Ironton I was prepared to take the
+Within ten days after reaching Ironton I was prepared to take the
 offensive against the enemy at Greenville.  I sent a column east out of
 the valley we were in, with orders to swing around to the south and west
 and come into the Greenville road ten miles south of Ironton.  Another
@@ -5546,7 +5548,7 @@ enemy had been followed so closely that when he reached the clear ground
 on which his camp was pitched he beat a hasty retreat over the river
 bank, which protected him from our shots and from view.  This
 precipitate retreat at the last moment enabled the National forces to
-pick their way without hinderance through the abatis--the only
+pick their way without hinderance through the _abatis_--the only
 artificial defence the enemy had.  The moment the camp was reached our
 men laid down their arms and commenced rummaging the tents to pick up
 trophies.  Some of the higher officers were little better than the
@@ -5862,7 +5864,7 @@ the mouth of the creek.
 
 When the landing was completed I returned with the transports to Paducah
 to hasten up the balance of the troops.  I got back on the 5th with the
-advance the remainder following as rapidly as the steamers could carry
+advance, the remainder following as rapidly as the steamers could carry
 them.  At ten o'clock at night, on the 5th, the whole command was not
 yet up.  Being anxious to commence operations as soon as possible before
 the enemy could reinforce heavily, I issued my orders for an advance at
@@ -5966,11 +5968,11 @@ fort.  The ground inside and outside of this intrenched line was very
 broken and generally wooded.  The trees outside of the rifle-pits had
 been cut down for a considerable way out, and had been felled so that
 their tops lay outwards from the intrenchments.  The limbs had been
-trimmed and pointed, and thus formed an abatis in front of the greater
+trimmed and pointed, and thus formed an _abatis_ in front of the greater
 part of the line. Outside of this intrenched line, and extending about
 half the entire length of it, is a ravine running north and south and
 opening into Hickman creek at a point north of the fort.  The entire
-side of this ravine next to the works was one long abatis.
+side of this ravine next to the works was one long _abatis_.
 
 General Halleck commenced his efforts in all quarters to get
 reinforcements to forward to me immediately on my departure from Cairo.
@@ -6202,7 +6204,7 @@ ahead of me."  I determined to make the assault at once on our left.  It
 was clear to my mind that the enemy had started to march out with his
 entire force, except a few pickets, and if our attack could be made on
 the left before the enemy could redistribute his forces along the line,
-we would find but little opposition except from the intervening abatis.
+we would find but little opposition except from the intervening _abatis_.
 I directed Colonel Webster to ride with me and call out to the men as we
 passed:  "Fill your cartridge-boxes, quick, and get into line; the enemy
 is trying to escape and he must not be permitted to do so."  This acted
@@ -6212,7 +6214,7 @@ and directed him to charge the enemy's works in his front with his whole
 division, saying at the same time that he would find nothing but a very
 thin line to contend with.  The general was off in an incredibly short
 time, going in advance himself to keep his men from firing while they
-were working their way through the abatis intervening between them and
+were working their way through the _abatis_ intervening between them and
 the enemy.  The outer line of rifle-pits was passed, and the night of
 the 15th General Smith, with much of his division, bivouacked within the
 lines of the enemy.  There was now no doubt but that the Confederates
@@ -8351,7 +8353,7 @@ officers to be on the alert for any indications of battle. During the
 towards the point where Ord was, or to Burnsville where I had remained.
 
 A couple of hours before dark on the 19th Rosecrans arrived with the
-head of his column at garnets, the point where the Jacinto road to Iuka
+head of his column at Barnets, the point where the Jacinto road to Iuka
 leaves the road going east.  He here turned north without sending any
 troops to the Fulton road.  While still moving in column up the Jacinto
 road he met a force of the enemy and had his advance badly beaten and
@@ -11036,7 +11038,7 @@ There were no mortars with the besiegers, except what the navy had in
 front of the city; but wooden ones were made by taking logs of the
 toughest wood that could be found, boring them out for six or twelve
 pound shells and binding them with strong iron bands.  These answered as
-cochorns, and shells were successfully thrown from them into the
+coehorns, and shells were successfully thrown from them into the
 trenches of the enemy.
 
 The labor of building the batteries and intrenching was largely done by
@@ -13516,7 +13518,7 @@ arrangement of the subject-matter was made by him between the 10th and
 CHAPTER XLV.
 
 THE RELIEF OF KNOXVILLE--HEADQUARTERS MOVED TO NASHVILLE--VISITING
-KNOXVILLE-CIPHER CIPHER DISPATCHES--WITHHOLDING ORDERS.
+KNOXVILLE-CIPHER DISPATCHES--WITHHOLDING ORDERS.
 
 Chattanooga now being secure to the National troops beyond any doubt, I
 immediately turned my attention to relieving Knoxville, about the
@@ -18184,17 +18186,17 @@ information however, and he had no suspicion of how I expected to have
 the road cleared for his workmen.
 
 Sheridan moved at the time he had fixed upon.  He met Early at the
-crossing of Opequon Creek, a most decisive victory--one which the
-country.  Early had invited this attack himself by his bad generalship
-and made the victory easy.  He had sent G. T. Anderson's division east
-of the Blue Ridge before I went to Harper's Ferry; and about the time I
-arrived there he started other divisions (leaving but two in their
-camps) to march to Martinsburg for the purpose destroying the Baltimore
-and Ohio Railroad at that point.  Early here learned that I had been
-with Sheridan and, supposing there was some movement on foot, started
-back as soon as he got the information.  But his forces were separated
-and, as I have said, he was very badly defeated.  He fell back to
-Fisher's Hill, Sheridan following.
+crossing of Opequon Creek, and won a most decisive victory--one which
+electrified the country.  Early had invited this attack himself by his
+bad generalship and made the victory easy.  He had sent G. T. Anderson's
+division east of the Blue Ridge before I went to Harper's Ferry; and
+about the time I arrived there he started other divisions (leaving but
+two in their camps) to march to Martinsburg for the purpose destroying
+the Baltimore and Ohio Railroad at that point.  Early here learned that
+I had been with Sheridan and, supposing there was some movement on foot,
+started back as soon as he got the information.  But his forces were
+separated and, as I have said, he was very badly defeated.  He fell back
+to Fisher's Hill, Sheridan following.
 
 The valley is narrow at that point, and Early made another stand there,
 behind works which extended across.  But Sheridan turned both his flanks
@@ -19537,7 +19539,7 @@ He was instructed to communicate freely with Porter and have entire
 harmony between army and navy, because the work before them would
 require the best efforts of both arms of service. They arrived off
 Beaufort on the 8th. A heavy storm, however, prevented a landing at
-Forth Fisher until the 13th.  The navy prepared itself for attack about
+Fort Fisher until the 13th.  The navy prepared itself for attack about
 as before, and the same time assisted the army in landing, this time
 five miles away.  Only iron-clads fired at first; the object being to
 draw the fire of the enemy's guns so as to ascertain their positions.
@@ -19547,7 +19549,7 @@ signs of being much injured.
 
 Terry deployed his men across the peninsula as had been done before, and
 at two o'clock on the following morning was up within two miles of the
-fort with a respectable abatis in front of his line. His artillery was
+fort with a respectable _abatis_ in front of his line. His artillery was
 all landed on that day, the 14th.  Again Curtis's brigade of Ame's
 division had the lead. By noon they had carried an unfinished work less
 than a half mile from the fort, and turned it so as to face the other
@@ -20624,7 +20626,7 @@ including that north of the James River, until it was light enough to
 move, which was about a quarter to five in the morning.
 
 At that hour Parke's and Wright's corps moved out as directed, brushed
-the abatis from their front as they advanced under a heavy fire of
+the _abatis_ from their front as they advanced under a heavy fire of
 musketry and artillery, and went without flinching directly on till they
 mounted the parapets and threw themselves inside of the enemy's line.
 Parke, who was on the right, swept down to the right and captured a very
@@ -20680,7 +20682,7 @@ Appomattox River below the city to the same river above.  At eleven
 o'clock, not having heard from Sheridan, I reinforced Parke with two
 brigades from City Point.  With this additional force he completed his
 captured works for better defence, and built back from his right, so as
-to protect his flank.  He also carried in and made an abatis between
+to protect his flank.  He also carried in and made an _abatis_ between
 himself and the enemy.  Lee brought additional troops and artillery
 against Parke even after this was done, and made several assaults with
 very heavy losses.
@@ -21814,7 +21816,7 @@ operating against the South, on the contrary, had to protect its lines
 of communication with the North, from which all supplies had to come to
 the front.  Every foot of road had to be guarded by troops stationed at
 convenient distances apart.  These guards could not render assistance
-beyond the points where stationed.  Morgan Was foot-loose and could
+beyond the points where stationed.  Morgan was foot-loose and could
 operate where, his information--always correct--led him to believe he
 could do the greatest damage.  During the time he was operating in this
 way he killed, wounded and captured several times the number he ever had
@@ -26076,7 +26078,7 @@ GRANT, Lieutenant-General.
 
 THE END
 
-     
+
      __________
      FOOTNOTES
 
@@ -26589,7 +26591,7 @@ THE END
      and if found practicable will work eastward to Lynchburg and
      return to its base by way of the Shenandoah Valley, or join
      you.  The other will strike at Saltville, Va., and come eastward
-     to join Ord.  The cavalry from Ord's command will try tributaries
+     to join Ord.  The cavalry from Ord's command will try tributaries which
      would furnish us an easy line over which to bring all supplies to
      within easy hauling distance of every position the army could
      occupy from the Rapidan to the James River.  But Lee could, if
